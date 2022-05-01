@@ -1,4 +1,4 @@
-## Oiie! Eu sou o Gustavo 
+## Ola! Eu sou o Gustavo 
  
    <div>
   <a href="https://github.com/Gustavo-Ti">
